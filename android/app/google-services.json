@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "419594986748",
+    "firebase_url": "https://point-system-dc140-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "point-system-dc140",
+    "storage_bucket": "point-system-dc140.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419594986748:android:1c2831cea1c07932736379",
+        "android_client_info": {
+          "package_name": "com.example.enjoy_cafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtbpsbBTQmS1dHN6wfF5YWt2nAy27L1EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419594986748:android:ed13cd0fcc2b5cc7736379",
+        "android_client_info": {
+          "package_name": "com.example.enjoy_numpad_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtbpsbBTQmS1dHN6wfF5YWt2nAy27L1EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
